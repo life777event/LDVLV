@@ -1,4 +1,4 @@
-# Ebauche de conception
+# Introduction
 
 ## L'origine
 
@@ -55,6 +55,3 @@ J'ai alors pensé que mon travail, et la méthodologie que j'y avais intégré i
 De cette manière, il est facile de tracer un chemin, une progression. Il suffira simplement d'idées, et des idées, il est facile d'en trouver. 
 
 Un autre problème, c'est l'étendu de la tâche. Dans un monde tacite, où il serait possible de se perdre, il faudra bien s'y perdre en le créant. Toujours dans mon travail, le concept de gestion de version est très bénéfique pour l'élaboration et le suivi d'un projet sur lequel on vient ajouter des choses au fur et à mesure. Voir [github](https://github.com/).
-
-
-## L'idée
