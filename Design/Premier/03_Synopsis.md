@@ -1,0 +1,31 @@
+# Synopsis
+
+Là d'où vient le vent (LDVLV)
+
+> Au début, seul fût le [Mouvent](mouvement).     
+Puis vint l'Elan, l'inertie de toute chose.     
+Et enfin l'Intervalle, l'espace et le temps.   
+
+## La planète
+
+<div style="text-align: justify;">
+
+C'est une planète similaire en tout point à la Terre, le même astre, la même distance à celui-ci, la même atmosphère, la même masse... et le même bleu. Dans son sillage, un satellite l'accompagne, une Lune tout simaire à la notre, qui décrit une trajectoire ovale frôlant la planète en bout de course. Ce périgé extravagant a pour conséquence de provoquer une attraction qui déchaîne des marées océaniques et atomsphériques monstrueuses. Les quelques reliefs qui se confrontent à cette atmosphère érosive sont surtout d'imposants massifs terrestres, tantôt désertiques et valonés, bien que largement montagneux et escarpés. Quelques voluptes ocres perçant le bleu profond laissent deviner des volcans actifs, preuve d'un mouvement tectonique important.
+
+L'ensemble consiste en une efervesence hypnotique et incessante, de ces coulées nacrées qui naissent et meurent, épousant les quelques reliefs, glissant sur les montagnes ou sillonant les étendues d'eau teintées de bleu. L'impression est accentuée par le fait que la planète, elle, ne semble quasiment pas tourner sur elle-même. L'orbite trop proche de son satellite ayant eut raison de sa propre rotation; plus aucun effet Coriolis pour courber les flux, et les longues journées générent des gradients de chaleur importants avec la nuit, catalysant des vents d'autant plus puissants.
+
+## Son relief
+
+
+
+</div>
+
+## La faune/flore
+Des créatures gigantesques et lentes, qui broutent sans relâche les rares herbes et plantes rases qui jonchent les hautes plaines. 
+
+Ensuite, le relief, très montagneux, quoiqu’il existe quelques exceptions. Tout le reste : pics, chaînes, vallées, cols, arêtes, plaines, glaciers et… plateaux.
+C’est dû à une tectonique des plaques très active, avec son consort de tremblements créant des reliefs similaires à ceux de la Terre.
+
+Pour ce qui est des océans, des marées colossales avec des variations dramatiques du niveau des océans. Des vagues massives et constantes, alimentées par des vents rectilignes et une houle persistante, viendraient rendre le littoral difficile d’accès et en feraient un désert de plus.
+
+Pour la faune et la flore terrestres, tout du moins, car sous la surface, une infusion de vie, de mammifères gigantesques aux monstres des profondeurs, en passant par le consort de coraux, de poissons, de méduses, de crabes et... Bien que la vie sous le vent ne soit pas si prospère, elle profite aussi de ses oasis dûs aux reliefs, bien que rien ne puisse se cacher du vent indéfiniment.
