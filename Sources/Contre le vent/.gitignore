@@ -1,4 +1,6 @@
-*.sln
 .vs
+x64
+Contre le vent
 *.dll
 *.vcxproj*
+*.sln
