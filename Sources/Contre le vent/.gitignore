@@ -2,5 +2,6 @@
 x64
 Contre le vent
 *.dll
-*.vcxproj*
+*.vcxproj.filters
+*.vcxproj.user
 *.sln
